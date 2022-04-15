@@ -5,6 +5,7 @@
 - 📫 How to reach me: 
 
           Email: mikaelrsimoes19@gmail.com
+          Linkedin: https://www.linkedin.com/in/mikael-ribeiro/
           My GitHub: https://github.com/Mikkaiser
           
           
