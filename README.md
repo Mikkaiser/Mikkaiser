@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web development tools, and help the community with whatever it takes.
 - 📫 How to reach me: 
 
-          Email: mikaelcontato.dev@gmail.com
+          Email: mikaelrsimoes19@gmail.com
           My GitHub: https://github.com/Mikkaiser
           
           
