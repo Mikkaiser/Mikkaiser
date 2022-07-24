@@ -1,3 +1,15 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikkaiser&count_private=true&hide=issues&theme=dracula&show_icons=true&title_color=3FD990&bg_color=DEG,07180F,002D14&icon_color=3FD990&include_all_commits=true&count_private=true&border_color=3FD990)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
+
+
+
+
 - 👋 Hi, I’m @Mikkaiser, a brazilian developer 🇧🇷
 - 👀 I’m interested in improve the quality of my work and gain experience as a developer :wink:
 - 🌱 I’m currently learning the most actual technologies of the javascript language.
