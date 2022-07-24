@@ -1,7 +1,7 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikkaiser&count_private=true&hide=issues&theme=dracula&show_icons=true&title_color=3FD990&bg_color=DEG,07180F,002D14&icon_color=3FD990&include_all_commits=true&count_private=true&border_color=3FD990)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikkaiser&theme=dracula&show_icons=true&title_color=3FD990&bg_color=DEG,07180F,002D14&icon_color=3FD990&include_all_commits=true&count_private=true&border_color=3FD990&langs_count=3&hide=assembly,java,pascal,pawn,html,css,c%2B%2B,objective-c%2B%2B,objective-c,makefile,ruby,Starlak)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mikkaiser&count_private=true&hide=issues&theme=dracula&show_icons=true&title_color=3FD990&bg_color=DEG,07180F,002D14&icon_color=3FD990&include_all_commits=true&count_private=true&border_color=3FD990"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikkaiser&theme=dracula&show_icons=true&title_color=3FD990&bg_color=DEG,07180F,002D14&icon_color=3FD990&include_all_commits=true&count_private=true&border_color=3FD990&langs_count=3&hide=assembly,java,pascal,pawn,html,css,c%2B%2B,objective-c%2B%2B,objective-c,makefile,ruby,Starlak"> 
+</div>
 
 
 
