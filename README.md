@@ -18,7 +18,6 @@
 
           Email: mikaelrsimoes19@gmail.com
           Linkedin: https://www.linkedin.com/in/mikael-ribeiro/
-          My GitHub: https://github.com/Mikkaiser
           
           
 See you! :raised_hand_with_fingers_splayed: :v:
