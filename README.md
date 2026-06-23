@@ -3,14 +3,10 @@
 I'm a Software Engineer and Instructor based in Abu Dhabi, UAE 🇧🇷🇦🇪  
 5+ years building across the full stack, competing and coaching at WorldSkills.
 
----
-
 🏆 **Highlights**
-- Gold Medal — WorldSkills Americas 2021
-- Gold Medal — Brazilian National Championship 2022
+- Gold Medal - WorldSkills Americas 2021
+- Gold Medal - Brazilian National Championship 2022
 - Software Solutions Expert at Emirates Skills & WorldSkills
-
----
 
 🔧 **Tech Stack**
 
@@ -19,8 +15,6 @@ Frontend: Angular · Next.js · React · React Native
 Infra: Docker · Kubernetes · GitHub Actions · Azure Pipelines  
 Cloud: Azure · AWS (RDS, Aurora, ElastiCache)  
 Monitoring: Grafana · Loki · Prometheus
-
----
 
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=flat&logo=dotnet&logoColor=white)
@@ -36,8 +30,6 @@ Monitoring: Grafana · Loki · Prometheus
 ![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=flat&logo=microsoftazure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=flat&logo=githubactions&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)
-
----
 
 📫 **Reach me**
 
