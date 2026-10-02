@@ -33,6 +33,6 @@ Monitoring: Grafana · Loki · Prometheus
 
 📫 **Reach me**
 
-Email:    mikaelrsimoes19@gmail.com  
+Email:    mikkaiser.ribeiro@gmail.com  
 LinkedIn: https://www.linkedin.com/in/mikael-ribeiro/  
 Portfolio:https://mikkaiser.com
